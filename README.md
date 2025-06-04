@@ -84,5 +84,3 @@ This study demonstrates that deep learning and transfer learning can effectively
 ResNet18 offered the best trade-off between accuracy and computation.
 Transfer learning reduces the need for large datasets and extensive training.
 Custom CNNs, while informative, underperform compared to large-scale pretrained networks.
-
-ye Alzheimer wale readme me paste kar do
