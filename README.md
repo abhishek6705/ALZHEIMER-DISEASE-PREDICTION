@@ -13,8 +13,11 @@ Total Images: 30,000 2D MRI brain scans
 Diagnostic Categories:
 
 Non-Demented
+
 Very Mild Demented
+
 Mild Demented
+
 Moderate Demented
 
 This rich dataset provides a robust foundation for training deep learning models to identify and classify varying stages of Alzheimer’s disease.
@@ -46,9 +49,13 @@ A tailor-made CNN architecture consisting of multiple convolutional, pooling, an
 Pre-trained CNN models used in this project include:
 
 ResNet18
+
 VGG16
+
 InceptionV3
+
 MobileNetV2
+
 EfficientNetB0
 
 🔧 Implementation Steps:
@@ -82,9 +89,13 @@ Optionally unfreeze the last few layers of the base model and fine-tune them on 
 📊 Results
 
 The models were trained and evaluated on the Kaggle Alzheimer’s MRI dataset across four classes:
+
 Non-Demented
+
 Very Mild Demented
+
 Mild Demented
+
 Moderate Demented
 
 ✅ Key Metrics Used:
